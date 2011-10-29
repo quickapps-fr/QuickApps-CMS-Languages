@@ -14,11 +14,14 @@ msgstr ""
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Controls the visual building blocks a page is constructed with. Blocks are boxes of content rendered into an area, or region, of a web page."
+msgstr "Contrôles les blocs de construction visuelle d'une page est construite avec. Les blocs sont des boîtes de contenu rendu dans une zone ou une région, d'une page web."
+
 msgid "New Block"
 msgstr "Nouveau Bloc"
 
 msgid "Save block"
-msgstr "Sauvegarder le bloc"
+msgstr "Enregistrer le bloc"
 
 msgid "Unassigned"
 msgstr "Non assignés"
@@ -33,16 +36,16 @@ msgid "configure"
 msgstr "configurer"
 
 msgid "Block has been saved"
-msgstr "Bloque ha sido guardado"
+msgstr "Le bloc a bien été enregistré"
 
 msgid "delete"
 msgstr "supprimer"
 
 msgid "move up"
-msgstr "Monter"
+msgstr "monter"
 
 msgid "move down"
-msgstr "Descendre"
+msgstr "descendre"
 
 msgid "Block"
 msgstr "Bloc"
@@ -63,7 +66,7 @@ msgid "Block title"
 msgstr "Titre du bloc"
 
 msgid "The title of the block as shown to the user."
-msgstr "Le titre du bloc, tel qu'il sera indiqué à l'utilisateur."
+msgstr "Le titre du bloc, tel qu'il sera vu par l'utilisateur."
 
 msgid "Block description *"
 msgstr "Description du bloc *"

@@ -14,6 +14,8 @@ msgstr ""
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Enables the categorization of content."
+msgstr "Permet la catégorisation du contenu."
 msgid "Taxonomy"
 msgstr "Taxonomie"
 

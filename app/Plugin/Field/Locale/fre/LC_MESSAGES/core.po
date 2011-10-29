@@ -14,3 +14,6 @@ msgstr ""
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Field API to add fields to entities like nodes and users."
+msgstr "Champ API pour ajouter des champs à des entités comme les noeuds et les utilisateurs."
+

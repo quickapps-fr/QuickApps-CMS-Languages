@@ -14,6 +14,9 @@ msgstr ""
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Allows users to comment on and discuss published content."
+msgstr "Permet aux utilisateurs de commenter et de discuter du contenu publié."
+
 msgid "wrote"
 msgstr "a écrit"
 
@@ -54,13 +57,13 @@ msgid "Update Options"
 msgstr "Options de mise à jour"
 
 msgid "Unapprove selected comments"
-msgstr "Désapprouvés les commentaires sélectionnés"
+msgstr "Désapprouver les commentaires sélectionnés"
 
 msgid "Approve selected comments"
 msgstr "Approuver les commentaires sélectionnés"
 
 msgid "Delete selected comments"
-msgstr "Supprimer les sommentaires sélectionnés"
+msgstr "Supprimer les commentaires sélectionnés"
 
 msgid "Update"
 msgstr "Mettre à jour"
@@ -81,5 +84,5 @@ msgid "There are no comments to display"
 msgstr "Il n'y a aucun commentaire à afficher"
 
 msgid "Are you sure ?"
-msgstr "Está seguro ?"
+msgstr "Êtes-vous sûr ?"
 

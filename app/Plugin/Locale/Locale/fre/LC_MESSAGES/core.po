@@ -1,10 +1,8 @@
-msgid ""
-msgstr ""
 "Project-Id-Version: QuickApps v1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-01 00:00+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Naïma\n"
 "Language-Team: QuickApps.fr <contact@quickapps.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,6 +12,8 @@ msgstr ""
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Adds language handling functionality and enables the translation of the user interface to languages other than English"
+msgstr "Ajoute des fonctionnalités de manipulation des langues et permet la traduction de l'interface utilisateur pour d'autres langues que l'anglais"
 msgid "Languages"
 msgstr "Langues"
 
@@ -63,7 +63,7 @@ msgid "Right to Left"
 msgstr "De droite à gauche"
 
 msgid "Direction that text in this language is presented."
-msgstr "Sens dans lequel le texte sera présenté dans cette langue."
+msgstr "Sens dans lequel le texte sera écrit dans cette langue."
 
 msgid "Add"
 msgstr "Ajouter"
@@ -108,7 +108,7 @@ msgid "Enable selected languages"
 msgstr "Activer les langues sélectionnées"
 
 msgid "Disable selected languages"
-msgstr "Desactiver les langues sélectionnées"
+msgstr "Désactiver les langues sélectionnées"
 
 msgid "Delete selected languages"
 msgstr "Supprimer les langues sélectionnées"
